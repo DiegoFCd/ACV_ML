@@ -10,7 +10,7 @@ Desarrollé como punto de partida una Red Neuronal a partir de un dataset, luego
 **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)** entre otros tantas herramientas y técnicas que verán en el proyecto.
 El resultado final permite generar insights accionables para la toma de decisiones objetivas en el ámbito de la medicina.
 Este análisis proporciona una base sólida para entender las relaciones entre los antecedentes clinicos y prácticas cotidianas de las personas y asi intentar predecir la posibilidad de sufrir un 
-Accidente Cerebro Vascular (ACV). Los resultados pueden ayudar a los doctores a entender qué medidas son más relevantes tomar para minimizar las posibilidades de sufrir este tipo de episodios.<br>
+Accidente Cerebro Vascular (ACV). Los resultados pueden ayudar a los doctores a entender qué medidas son más relevantes a tomar para minimizar la posibilidad de sufrir este tipo de episodio.<br>
 
 <br>
 <p align="center">
